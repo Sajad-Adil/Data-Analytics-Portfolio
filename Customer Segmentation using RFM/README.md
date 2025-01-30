@@ -6,8 +6,7 @@ This project uses Recency, Frequency, and Monetary (RFM) analysis to segment cus
 ## Methodology
 - Data preprocessing and aggregation
 - RFM score calculation
-- Clustering (K-Means, Hierarchical Clustering)
-- Visualization of customer segments
+- Visualization of customer segments using a scatter plot
 
 ## Tools Used
 - SQL for data calculations
