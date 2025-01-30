@@ -1,6 +1,6 @@
 # User Subscription Retention Analysis
 
-This project is part of **Module 3, Sprint 1** of TC Data Analytics program, focusing on **cohort analysis**, **retention**, and **churn** analysis. It calculates weekly retention for user subscriptions over a 7-week period, tracking how many users remain active each week after their subscription start.
+This project focuses on **cohort analysis**, **retention**, and **churn** analysis. It calculates weekly retention for user subscriptions over a 7-week period, tracking how many users remain active each week after their subscription starts.
 
 ## Key Steps
 
