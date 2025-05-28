@@ -1,9 +1,9 @@
 # 📊 Data Analytics Portfolio
 
-## 📌 Overview
+## Overview
 Welcome to my **Data Analytics Portfolio**, a collection of projects showcasing my expertise in **data exploration, visualization, business analytics, and statistical modeling**. Using tools like **SQL, Power BI, Excel, and Python** to extract insights and help to make a data-driven decisions.
 
-## 🏆 Key Projects
+##  Key Projects
 ### 🔹 [1️⃣ A/B Testing for Marketing Campaign](./AB%20Testing%20for%20Marketing%20Campaign/)
 📌 **Goal:** Analyze an A/B test to determine which marketing campaign drives the highest sales.  
 🛠️ **Tools:** SQL, Python (Pandas, Scipy), Excel  
