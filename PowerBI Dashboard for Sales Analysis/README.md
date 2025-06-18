@@ -24,7 +24,7 @@ This project analyzes and compares **online vs offline sales** using **Power BI*
 
 ## 📂 Project Files
 ### 🔹 Power BI Report  
-📌 **[Download Power BI Dashboard](path/to/your/dashboard.pbix)**  
+📌 **[Download Power BI Dashboard](https://github.com/Sajad-Adil/Data-Analytics-Portfolio/blob/main/PowerBI%20Dashboard%20for%20Sales%20Analysis/Sales%20Dashboard.pbix)**  
 
 ### 📄 PDF Report  
 📌 **[View Full Analysis Report](https://github.com/Sajad-Adil/Data-Analytics-Projects/blob/main/PowerBI%20Dashboard%20for%20Sales%20Analysis/Online%20vs%20Offline%20Analysis%20Presentation/Online%20vs%20Offline%20Sales%20Analysis.pdf)**  
